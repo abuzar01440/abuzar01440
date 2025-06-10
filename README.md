@@ -1,7 +1,7 @@
 Hi there! 👋 I'm **Abuzar Shahid**, a Data Scientist and Machine Learning Engineer with a passion for transforming complex data into actionable insights and building intelligent systems. My expertise lies in leveraging cutting-edge techniques in AI and ML to solve real-world problems, from 3D MRI image segmentation to developing robust AI agents. I'm constantly exploring new frontiers in large Language Models, with a clear vision of becoming an AI Scientist.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abuzar Shahid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abuzar-shahid-data-scientist?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Abuzar Shahid](https://www.linkedin.com/in/abuzar-shahid-data-scientist?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 

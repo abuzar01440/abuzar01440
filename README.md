@@ -31,6 +31,6 @@ Hi there! 👋 I'm **Abuzar Shahid**, a Data Scientist and Machine Learning Engi
 Feel free to reach out via email for collaborations, questions, or just a chat!
 
 * **Primary:** [abuzarbhutta@gmail.com](mailto:abuzarbhutta@gmail.com)
-* **Secondary:** [abuzarbhutta.0@outlook.com](mailto:abuzarbhutta.0@outlook.com)
+* **Secondary:** [abuzarbhutta.0@outlook.com](mailto:abuzarbhutta.0@outlook.com) 🚀
 
 
